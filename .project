@@ -16,6 +16,11 @@
 	</natures>
 	<linkedResources>
 		<link>
+			<name>conf</name>
+			<type>2</type>
+			<locationURI>DEV_LOC/conf</locationURI>
+		</link>
+		<link>
 			<name>libs</name>
 			<type>2</type>
 			<locationURI>DEV_LOC/bin</locationURI>
